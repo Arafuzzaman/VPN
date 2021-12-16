@@ -11,3 +11,4 @@ public class Config {
     public static boolean servers_subscription = false;
     public static boolean isVPNConnected = false;
 }
+jknjcas
